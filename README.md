@@ -16,7 +16,7 @@ The Terraform script will set up the Hadoop Cluster, and it will redirect you to
 To verfiy further, connect to the master node and run the command ``hadoop dfsadmin -report``. It will show the nodes running in the Hadoop Cluster.
 
 ## Get Involved:
-*  Read [Community Guidelines](https://github.com/yadvi12/Automating-Hadoop-Cluster-on-AWS-Cloud-using-Terraform/blob/main/CONTRIBUTING.md>) for all
+*  Read [Community Guidelines](<https://github.com/yadvi12/Automating-Hadoop-Cluster-on-AWS-Cloud-using-Terraform/blob/main/CONTRIBUTING.md>) for all
    kinds of ways to contribute to and interact with the project,
    including how to submit bug reports and
    code to repository.
