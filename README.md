@@ -29,6 +29,9 @@ To verfiy further, connect to the master node and run the command ``hadoop dfsad
 ## License:
 The Project is released under the terms of the MIT License.
 
+</br>
+</br>
+
 <div align="center">
     <a href="https://allcontributors.org">
         <img width="30%" height="50%" src="/images/contribute.svg" alt="✨ All Contributors ✨" width="800px" />
