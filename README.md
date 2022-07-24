@@ -30,7 +30,6 @@ To verfiy further, connect to the master node and run the command ``hadoop dfsad
 The Project is released under the terms of the MIT License.
 
 </br>
-</br>
 
 <div align="center">
     <a href="https://allcontributors.org">
