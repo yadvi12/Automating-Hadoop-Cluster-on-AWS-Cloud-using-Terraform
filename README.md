@@ -5,8 +5,10 @@ The goal is to install a Hadoop Cluster on machines running Linux on top of AWS 
 ## Usage:
 - Install Terraform on your system.
 - Clone this repository in any location you want.
-- CD to the location of the cloned repository.
 - Edit the file ``terraform.tfvars`` according to your requirements.
+- Open the command prompt and cd to the location of the cloned repository.
+- Run the command ``terraform init``.
+- Apply the script by running the command ``terraform apply -auto-approve``.
 
 Note: You need to have an AWS IAM user account to set the access key and secret key in the variables file.
 
