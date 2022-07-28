@@ -12,6 +12,11 @@ The goal is to install a Hadoop Cluster on machines running Linux on top of AWS 
 
 Note: You need to have an AWS IAM user account to set the access key and secret key in the variables file.
 
+## Destroying the Hadoop Architecture:
+- To destroy the architecture, run thr command ``terraform destroy -auto-approve``.
+
+Note: Be extremely careful before running the destroy command. Terraform will destroy all your managed infrastructure, there is no undo.
+
 ## Verification:
 The Terraform script will set up the Hadoop Cluster, and it will redirect you to the Hadoop master node dashboard. It will show 3 nodes running in live nodes section. 
 
