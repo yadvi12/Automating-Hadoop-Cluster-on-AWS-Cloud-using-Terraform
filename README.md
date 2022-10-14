@@ -46,9 +46,11 @@ The Project is released under the terms of the MIT License.
    </div>
 
    
-    1. [Yadvi Bhalla](https://www.linkedin.com/in/yadvibhalla1210/)
+   
    
 [Community Guidelines](<https://github.com/yadvi12/Automating-Hadoop-Cluster-on-AWS-Cloud-using-Terraform/blob/main/CONTRIBUTING.md>)
+    1. [Yadvi Bhalla](https://www.linkedin.com/in/yadvibhalla1210/)
+    <br>
     2. [Shashwat Mishra](https://www.linkedin.com/in/the-shashwat-mishra/)
    
 
