@@ -42,4 +42,6 @@ The Project is released under the terms of the MIT License.
     <a href="https://allcontributors.org">
         <img width="30%" height="50%" src="/images/contribute.svg" alt="✨ All Contributors ✨" width="800px" />
     </a>
+    1. [Yadvi Bhalla](https://www.linkedin.com/in/yadvibhalla1210/)
+    2. [Shashwat Mishra](https://www.linkedin.com/in/the-shashwat-mishra/)
 </div>
