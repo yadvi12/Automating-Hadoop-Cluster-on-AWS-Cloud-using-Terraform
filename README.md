@@ -46,8 +46,7 @@ To verfiy further, connect to the master node and run the command ``hadoop dfsad
    
 ## License:
 The Project is released under the terms of the MIT License.
-
-</br>
+<!-- </br>
 
 <div align="center">
   <!-- <a href="https://allcontributors.org">
@@ -56,7 +55,7 @@ The Project is released under the terms of the MIT License.
    
    </div>
 
-   <br>
+   <br> -->
    
 ### All Contributors:   
   1. [Yadvi Bhalla](https://www.linkedin.com/in/yadvibhalla1210/)
