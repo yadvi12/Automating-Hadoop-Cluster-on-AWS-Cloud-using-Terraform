@@ -52,7 +52,7 @@ To verfiy further, connect to the master node and run the command ``hadoop dfsad
    some changes are needed.
    
 ## License:
-The Project is released under the terms of the MIT License(LICENSE).
+The Project is released under the terms of the [MIT License](LICENSE).
 <!-- </br>
 
 <div align="center">
