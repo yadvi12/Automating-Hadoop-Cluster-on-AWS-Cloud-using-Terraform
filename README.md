@@ -67,6 +67,7 @@ The Project is released under the terms of the [MIT License](LICENSE).
    
 ## All Contributors:   
   1. [Yadvi Bhalla](https://www.linkedin.com/in/yadvibhalla1210/)
+    <a href="https://www.linkedin.com/in/yadvibhalla1210" alt="Linkedin"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="40"  height="40"/></a>
   2. [Shashwat Mishra](https://www.linkedin.com/in/the-shashwat-mishra/)
   
    
