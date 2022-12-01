@@ -3,6 +3,7 @@
 ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
  <img src="https://img.icons8.com/color/512/hadoop-distributed-file-system.png width="30"  height="30"/>
 
 The goal is to install a Hadoop Cluster on machines running Linux on top of AWS public cloud.
