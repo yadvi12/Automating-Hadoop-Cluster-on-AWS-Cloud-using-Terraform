@@ -4,6 +4,7 @@
  <img src="https://img.icons8.com/color/512/hadoop-distributed-file-system.png" width="50"  height="50"/>
  <img width="50"  height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/terraform.svg" />
  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="50"  height="50"/>
+ <img src="https://img.icons8.com/plasticine/512/visual-studio-code-2019.png" width="50"  height="50"/>
 </p>                                                                                             
 
 The goal is to install a Hadoop Cluster on machines running Linux on top of AWS public cloud.
