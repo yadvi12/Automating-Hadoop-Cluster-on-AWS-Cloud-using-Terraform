@@ -66,20 +66,10 @@ The Project is released under the terms of the [MIT License](LICENSE).
  -->
    
 ## All Contributors:   
-  1. [Yadvi Bhalla](https://www.linkedin.com/in/yadvibhalla1210/)
-
-
-<a href="https://www.linkedin.com/in/yadvibhalla1210" alt="Linkedin"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="30"  height="30"/></a>
-<a href="https://www.instagram.com/_yadvi_12/" alt="Instagram"><img src="https://img.icons8.com/doodle/50/000000/instagram-new.png" width="30"  height="30"/></a>
-<a href="mailto:workwithyadvibhalla@gmail.com" alt="Contact me"><img src="https://img.icons8.com/doodle/48/000000/apple-mail.png" width="30"  height="30"/></a>
-        
+  1. [Yadvi Bhalla](https://www.linkedin.com/in/yadvibhalla1210/)   
         
   2. [Shashwat Mishra](https://www.linkedin.com/in/the-shashwat-mishra/)
-  
-  
-<a href="https://www.linkedin.com/in/the-shashwat-mishra/" alt="Linkedin"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="30"  height="30"/></a>
-<a href="https://www.instagram.com/_shashwatmishra_/" alt="Instagram"><img src="https://img.icons8.com/doodle/50/000000/instagram-new.png" width="30"  height="30"/></a>
-<a href="mailto:workwithyadvibhalla@gmail.com" alt="Contact me"><img src="https://img.icons8.com/doodle/48/000000/apple-mail.png" width="30"  height="30"/></a>
+
   
    
 
