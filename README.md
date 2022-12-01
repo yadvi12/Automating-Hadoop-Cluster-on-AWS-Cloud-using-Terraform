@@ -23,7 +23,7 @@ In this project, we have automated the formation of the Hadoop Cluster with the 
 
 Note: You need to have an AWS IAM user account to set the access key and secret key in the variables file.
 
-## Destroying the Hadoop Architecture:
+### Destroying the Hadoop Architecture:
 - To destroy the architecture, run thr command ``terraform destroy -auto-approve``.
 
 Note: Be extremely careful before running the destroy command. Terraform will destroy all your managed infrastructure, there is no undo.
