@@ -1,6 +1,7 @@
 ## Automating-Hadoop-Cluster-on-AWS-Cloud-using-Terraform
 
 ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 The goal is to install a Hadoop Cluster on machines running Linux on top of AWS public cloud.
 
